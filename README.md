@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @wiredwarbler
-- 👀 I’m interested in indie game development, and I'm looking to collaborate!
-- 🌱 I’m currently learning Godot!
-- 📫 Reach me at wiredwarbler@proton.me!
+I’m Warbler, or Ornith. I love birds, and I want to make games.
 
 <!---
 wiredwarbler/wiredwarbler is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
